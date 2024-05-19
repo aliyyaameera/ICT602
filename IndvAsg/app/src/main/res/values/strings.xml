@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bill Estimator</string>
+    <string name="copyright">Copyright &#169; 2024. Aliyya Ameera</string>
+    <string name="details"><b>Developer details:</b>&#xA;Name: Aliyya Ameera Binti Syed Jamalullal&#xA;Group: RCS2405B&#xA;Student Number: 2022801072&#xA;Programme code: CS240</string>
+    <string name="info"><b>About the app:</b>&#xA;This application is used to estimate electricity bills based on the amount of electricity used and rebate percentage input by user.</string>
+    <string name="url"><a href="https://www.youtube.com/watch?v=a6ZP_ygT340">Click here for more info </a></string>
+</resources>
